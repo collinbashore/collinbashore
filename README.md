@@ -5,9 +5,11 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ### 🔭 I’m currently working on 
   - This profile page!
+  - Updating my GitHub repos
+  - Math & Statistics skills
   
 ### 🌱 I’m currently learning
-  - Python (Review)
+  - Python (Relearning)
   - R
   - MATLAB
   - Tableau
