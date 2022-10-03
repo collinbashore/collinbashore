@@ -7,7 +7,17 @@ I am an aspiring analytical and research-minded Data Scientist with a background
   - This profile page!
   
 ### 🌱 I’m currently learning
-  - Everything Data Science and Analytics!
+  - Python (Review)
+  - R
+  - MATLAB
+  - Tableau
+  - Advanced SQL topics such as:
+    - Database Design
+    - Common Table Expressions (CTE's)
+    - Transactions and Stored Procedures
+    - Debugging and Efficiency
+    - Optimization
+    
   
 ### ⚡ Fun fact: I am a triplet! 
 
