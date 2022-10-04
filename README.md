@@ -6,7 +6,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinbashore)
 
 ## About Me!
-I am an aspiring analytical and research-minded Data Scientist with a background in chemical, mathematical, and materials science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools and software, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
+I am an aspiring analytical and research-minded Data Scientist with a background in chemistry, mathematics, and materials science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools and software, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
 
 ## 🔭 I’m currently working on
   - This profile page!
@@ -26,13 +26,23 @@ I am an aspiring analytical and research-minded Data Scientist with a background
     - Optimization
 
 
-## ⚡ Fun fact: I am a triplet! 
+## ⚡ Fun fact: I am a triplet!
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=008080)
+
+<details>
+<summary>Programming Languages</summary>
+
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&color=008080)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=falt&logo=python&logoColor=ffdd54&color=008080)
+</details>
+
+<details>
+<summary>Tools & Software</summary>
+
 ![Microsoft Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=008080)
 ![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=orange&color=008080)
+</details>
 
 ## &#x1f4c8; GitHub Stats!
 
