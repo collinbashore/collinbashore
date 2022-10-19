@@ -11,12 +11,10 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 ## 🔭 I’m currently working on
   - This profile page!
   - Updating my GitHub repos
-  - Math & Statistics skills
 
 ## 🌱 I’m currently learning
   - Python (Relearning)
   - R
-  - MATLAB
   - Tableau
   - Advanced SQL topics such as:
     - Database Design
@@ -57,6 +55,6 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ## &#x1f4c8; GitHub Stats!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=collinbashore&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=collinbashore&show_icons=true&theme=gotham)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=collinbashore)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=collinbashore&theme=gotham)  
