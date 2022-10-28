@@ -9,20 +9,12 @@
 I am an aspiring analytical and research-minded Data Scientist with a background in Chemistry, Mathematics, and Materials Science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools/software and relevant data skills, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals in Data Science & Analytics. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
 
 ## 🔭 I’m currently working on
-  - This profile page!
   - Updating my GitHub repos
 
 ## 🌱 I’m currently learning
   - Python (Relearning)
   - R
   - Tableau
-  - Advanced SQL topics such as:
-    - Database Design
-    - Common Table Expressions (CTE's)
-    - Transactions and Stored Procedures
-    - Debugging and Efficiency
-    - Optimization
-
 
 ## ⚡ Fun fact: I am a triplet!
 
