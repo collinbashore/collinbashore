@@ -10,10 +10,10 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ## 🔭 I’m currently working on
   - Updating my GitHub repos
+  - Learning Data Cleaning/Wrangling
 
 ## 🌱 I’m currently learning
   - Python (Relearning)
-  - R
   - Tableau
 
 ## ⚡ Fun fact: I am a triplet!
