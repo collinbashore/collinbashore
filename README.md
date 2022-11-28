@@ -10,13 +10,14 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ## 🔭 I’m currently working on
   - Updating my GitHub repos
-  - Learning Data Cleaning/Wrangling
+  - Hotel Data Wrangling Project
+  - Movie Reviews Sentiment Analysis Project
 
 ## 🌱 I’m currently learning
-  - Python (Relearning)
+  - Data Wrangling/Cleaning
   - Tableau
 
-## ⚡ Fun fact: I am a triplet!
+## ⚡ Fun fact: I am a triplet (fraternal)!
 
 ## 💼  Skills
 
@@ -36,11 +37,24 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 </details>
 
 <details>
+<summary>Data Science (DS)/Machine Learning (ML) Libraries & Packages</summary>
+
+![Matplotlib](https://img.shields.io/badge/DS-Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black&color=008080)
+![NumPy](https://img.shields.io/badge/DS-numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white&color=008080)
+![Pandas](https://img.shields.io/badge/DS-pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white&color=008080)
+![Plotly](https://img.shields.io/badge/DS-Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white&color=008080)
+![SciPy](https://img.shields.io/badge/DS-SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white&color=008080)
+![Seaborn](https://img.shields.io/badge/DS-Seaborn-%230C55A5.svg?style=flat&logo=seaborn&logoColor=%white&color=008080)
+</details>
+
+<details>
 <summary>Data Science & Analytical Skills</summary>
 <ul>
 <li>Descriptive Statistics</li>
 <li>Inferential Statistics</li>
 <li>Linear Regression</li>
+<li>Exploratory Data Analysis</li>
+<li>Data Wrangling/Cleaning</li>
 <li>Data Storytelling</li>
 </ul>
 </details>
