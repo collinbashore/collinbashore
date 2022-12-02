@@ -11,10 +11,8 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 ## 🔭 I’m currently working on
   - Updating my GitHub repos
   - Hotel Data Wrangling Project
-  - Movie Reviews Sentiment Analysis Project
 
 ## 🌱 I’m currently learning
-  - Data Wrangling/Cleaning
   - Tableau
 
 ## ⚡ Fun fact: I am a triplet (fraternal)!
