@@ -1,7 +1,7 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/79961362/193440728-b8e83cb7-e081-47dd-8d43-33aaeaae6dfd.png)
 
 ## Contact Info/Profile Pages
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/www.linkedin.com/in/collinbashore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/www.linkedin.com/in/collinbashore)
 [![Datacamp](https://img.shields.io/badge/Datacamp-Profile-informational?style=flat&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/collinbashore)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinbashore)
 
