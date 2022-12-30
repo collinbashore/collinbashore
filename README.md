@@ -1,18 +1,15 @@
 
+## About Me!
+I am an aspiring analytical and research-minded Data Scientist with a background in Chemistry, Mathematics, and Materials Science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools/software and relevant data skills, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals in Data Science & Analytics. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
+
 ## Contact Info/Profile Pages
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/collinbashore)
 [![Datacamp](https://img.shields.io/badge/Datacamp-Profile-informational?style=flat&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/collinbashore)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinbashore)
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/collin.bashore)
 
-## About Me!
-I am an aspiring analytical and research-minded Data Scientist with a background in Chemistry, Mathematics, and Materials Science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools/software and relevant data skills, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals in Data Science & Analytics. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
-
 ## 🔭 I’m currently working on
   - Updating my GitHub repos
-  - Hotel Data Wrangling Project
-  - Fuel Economy Data Visualization Project (Collaboration project)
-  - Milestone Project #2: Bird Tracking and Traveler Profiles
 
 ## 🌱 I’m currently learning
   - Tableau
@@ -53,7 +50,6 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 <ul>
 <li>Descriptive Statistics</li>
 <li>Inferential Statistics</li>
-<li>Linear Regression</li>
 <li>Exploratory Data Analysis</li>
 <li>Data Wrangling/Cleaning</li>
 <li>Data Storytelling</li>
