@@ -13,6 +13,7 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ## 🌱 I’m currently learning
   - Tableau
+  - Machine Learning (with Python)
 
 ## ⚡ Fun fact: I am a triplet (fraternal)!
 
@@ -53,6 +54,7 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 <li>Exploratory Data Analysis</li>
 <li>Data Wrangling/Cleaning</li>
 <li>Data Storytelling</li>
+<li>Business Intelligence</li>
 </ul>
 </details>
 
