@@ -9,7 +9,7 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/collin.bashore)
 
 ## 🔭 I’m currently working on
-  - Updating my GitHub repos
+  - Applied Data Science Capstone Project (IBM Data Science Professional Certificate)
 
 ## 🌱 I’m currently learning
   - Tableau
@@ -44,6 +44,7 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 ![Plotly](https://img.shields.io/badge/DS-Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white&color=008080)
 ![SciPy](https://img.shields.io/badge/DS-SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white&color=008080)
 ![Seaborn](https://img.shields.io/badge/DS-Seaborn-%230C55A5.svg?style=flat&logo=seaborn&logoColor=%white&color=008080)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white&color=008080)
 </details>
 
 <details>
