@@ -10,9 +10,9 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 
 ## 🔭 I’m currently working on
   - Applied Data Science Capstone Project (IBM Data Science Professional Certificate)
+  - Titanic Machine Learning Project (Python)
 
 ## 🌱 I’m currently learning
-  - Tableau
   - Machine Learning (with Python)
 
 ## ⚡ Fun fact: I am a triplet (fraternal)!
@@ -55,6 +55,7 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 <li>Exploratory Data Analysis</li>
 <li>Data Wrangling/Cleaning</li>
 <li>Data Storytelling</li>
+<li>Data Visualization</li>
 <li>Business Intelligence</li>
 </ul>
 </details>
