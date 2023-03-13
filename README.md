@@ -9,11 +9,10 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/collin.bashore)
 
 ## 🔭 I’m currently working on
-  - Applied Data Science Capstone Project (IBM Data Science Professional Certificate)
   - Titanic Machine Learning Project (Python)
 
 ## 🌱 I’m currently learning
-  - Machine Learning (with Python)
+  - AWS Cloud Practitioner Essentials - On Coursera with content provided by Amazon Web Services
 
 ## ⚡ Fun fact: I am a triplet (fraternal)!
 
