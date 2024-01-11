@@ -1,6 +1,6 @@
 
 ## About Me!
-I am an aspiring analytical and research-minded Data Scientist with a background in Chemistry, Mathematics, and Materials Science. Currently, I am enrolled in an intensive Data Science & Analytics program at the University of Nevada, Las Vegas (UNLV) where I learn all of the required industry tools/software and relevant data skills, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals in Data Science & Analytics. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
+I am an aspiring analytical and research-minded Data Scientist with a background in Chemistry, Mathematics, and Materials Science. Currently, I am enrolled in an intensive DApplied Data Science and Big Data certificate program at WeCloudData where I learn all of the required industry tools/software and relevant data skills, such as SQL, Python, Business Intelligence, Machine Learning, and Applied Artificial Intelligence, from current industry professionals in Data Science. With a team-oriented attitude, I am eager to contribute to organizations and companies through interpreting data regarding machine learning, semiconductors, sensor data, and other technological data which can provide relevant information to be leveraged in effective administrative decision-making.
 
 ## Contact Info/Profile Pages
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/collin-bashore)
@@ -9,10 +9,9 @@ I am an aspiring analytical and research-minded Data Scientist with a background
 [![Tableau](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/collin.bashore)
 
 ## 🔭 I’m currently working on
-  - Titanic Machine Learning Project (Python)
 
 ## 🌱 I’m currently learning
-  - AWS Cloud Practitioner Essentials - On Coursera with content provided by Amazon Web Services
+  - Relearning and practicing SQL, Python, and Tableau
 
 ## ⚡ Fun fact: I am a triplet (fraternal)!
 
